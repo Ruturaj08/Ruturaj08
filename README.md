@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruturaj P
+- 👋 Hi, I’m Ruturaj Patil
 - 👀 I’m interested in Python and Cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on various opensource projects
